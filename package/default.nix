@@ -150,7 +150,7 @@ let
       freetype
       gdk-pixbuf
       glib
-      gnome2.GConf
+      # gnome2.GConf
       gtk3
       libGL
       libGLU
